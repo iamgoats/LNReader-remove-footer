@@ -1,2 +1,7 @@
 # LNReader-remove-footer
-Custom JS script to remove the "If you find any errors ( broken links, non-standard content, etc.. ), Please let us know &lt; report chapter > so we can fix it as soon as possible" on every chapter.
+
+Custom JS script for the LNReader app to remove the "If you find any errors..." on every chapter and replace it with 5 br.
+
+To use it, copy the script and paste it in: More>Settings>Reader>Settings>{}>JS.
+
+
